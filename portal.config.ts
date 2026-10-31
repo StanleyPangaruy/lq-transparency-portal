@@ -10,7 +10,7 @@ export default defineConfig({
   name: "Municipality of Lopez",
   shortName: "Lopez",
   operator: {
-    name: "PICTU"
+    name: "Better Lopez"
   },
   scope: {
     offices: [],
